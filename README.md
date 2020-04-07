@@ -48,7 +48,7 @@ The CNN model I have created from scratch got the accuracy of 24%. Although it m
 
 **Dog face detection**          |   **Human face detection**
 :-------------------------:|:-------------------------:
-![](images/c1.png)  |  ![](images/c2.png)
+![](images/c1.PNG)  |  ![](images/c2.PNG)
 
 <hr/>
 
